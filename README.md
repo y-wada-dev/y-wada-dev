@@ -1,10 +1,18 @@
 ## Hi, I'm Y. Wada 👋
 
-Data Engineer based in Tokyo.
-Building data pipelines and analytics platforms.
+Data Engineer based in Tokyo.  
+Experienced in building data pipelines, BI dashboards, 
+and ETL workflows across multiple industries.
 
-**Tech**: Python / SQL / AWS / TypeScript / Next.js / React
-**Currently learning**: Algorithms & Data Structures
+**Core skills**  
+Python / SQL / AWS (Lambda, S3, Glue) / ETL / Data Modeling
 
-## Projects
-To be added later
+**Currently learning**  
+Algorithms & Data Structures / Apache Airflow / Spark
+
+**Background**  
+4+ years building data platforms for clients across 
+construction, automotive, and HR industries in Japan.
+
+---
+📫 [GitHub](https://github.com/y-wada-dev)
