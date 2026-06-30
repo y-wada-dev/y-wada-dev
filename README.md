@@ -1,6 +1,6 @@
 ## Hi, I'm Y. Wada 👋
 
-Data Engineer based in Tokyo.  
+System & Data Engineer based in Tokyo.  
 Experienced in building data pipelines, BI dashboards, 
 and ETL workflows across multiple industries.
 
